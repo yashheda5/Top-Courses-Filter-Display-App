@@ -1,11 +1,11 @@
-# Tour Planner
+# Top Courses Filter & Display App
 
 Welcome to the **Top Courses Filter & Display App**! This intuitive and responsive web application, built with **React** and styled using **Tailwind CSS**, offers a seamless experience in exploring and managing a curated list of courses. The app features dynamic course filtering, allowing users to browse courses by categories such as "Web Development," "Data Science," and more. Each course is displayed on an interactive card with the option to like or unlike, accompanied by instant toast notifications for feedback. The app integrates with an API to fetch the latest course data, ensuring content remains current. A loading spinner enhances the user experience by indicating when data is being retrieved. Designed with responsiveness in mind, the app looks great on all devices, from desktops to mobile phones. This project is perfect for those learning React, as it demonstrates key concepts like state management and API integration, or for developers needing a course management component in their projects. Get started by cloning the repository, installing dependencies, and launching the app to explore its full functionality.
 
 ## 🎯 Live Demo
 
 Check out the live demo of the app hosted on Vercel:  
-[Tour Planner Live Demo](https://tour-planner-seven.vercel.app/)
+[Top Courses Filter & Display App Live Demo](https://top-courses-filter-display-app.vercel.app/)
 
 ## 📦 Direct Download
 
